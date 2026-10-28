@@ -1,0 +1,6 @@
+{
+  "name": "Mini-Maltego Académico",
+  "description": "Herramienta web académica de mapeo y análisis de relaciones OSINT basada en grafos dirigidos, listas de adyacencia, BFS, DFS recursivo y búsqueda de caminos (AED3).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
